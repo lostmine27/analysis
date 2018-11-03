@@ -1,9 +1,7 @@
 <html>
 
-![5.png](https://ipfs.busy.org/ipfs/QmPsQV4KeW1zepiQSxCNcQFiHZLPp7DYCuVCQtCTEwsM4T)
-
 <h2>Repository</h2>
-<p><a href="https://github.com/steemit/steem">https://github.com/steemit/steem</a> &nbsp;</p>
+<p><a href="https://github.com/lostmine27/analysis">https://github.com/lostmine27/analysis</a> &nbsp;</p>
 
 <p>&nbsp;Analyzing how Steem Inc.'s major account balances fluctuate in 2018 will be quite useful in understanding the current status of the STEEM blockchain.&nbsp;</p>
 
