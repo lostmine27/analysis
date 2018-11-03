@@ -27,7 +27,7 @@ What is important is how much these numbers have changed from the end of last ye
 To find out, I looked through all of the major accounts' 2018 transfers and then compared them to their current balance.
 
 ![2-1.png](https://ipfs.busy.org/ipfs/QmTZf3PtEWUpAu3E5XwnQAGdiDMH25BsJJtFfM2cP7J993)
-*<Source : steemsql, unit : 10K>*
+<Source : steemsql, unit : 10K>
 
 The annual changes in major accounts are shown in the table above. There have been a lot of changes.
 
@@ -41,7 +41,7 @@ The @steemit account had a reduction of about twenty-fifty million (steem + sp)
 Where did the reduced amount go?
 
 ![2.png](https://ipfs.busy.org/ipfs/QmTAcpqXJZFKNZVJraRgp87ey2KQk7Ms2PUQMizbgvBKxJ)
-*<Source : steemsql, unit : 10K>*
+<Source : steemsql, unit : 10K>
 
 As you can see in the chart above, about 11.5 million were added to the @misterdelegation account.
 
@@ -67,24 +67,24 @@ Approximately twenty-fifty million disappeared from the @steemit account, but on
 Where have the 11 million deficient ones gone? Yes, it is out of control by Steem Inc.
 
 ![3-1.png](https://ipfs.busy.org/ipfs/QmToyXJ77MeJH9kWm8W5YXUdq3Ra2c9F5oZGQcVSo57uhT)
-*<Source : steemsql, unit : 10K>*
+<Source : steemsql, unit : 10K>
 
 It is estimated that about 11 million units were spent on Steem Inc.'s operating funds.
 
 Maybe some are still in the exchange (like bittrex).
 
 ![3.png](https://ipfs.busy.org/ipfs/QmdHSg3mWNeVkQC6qnvFBb2XiUtnNHUXxUUWpcpkEXPsEW)
-*<Source : steemsql, unit : 10K>*
+<Source : steemsql, unit : 10K>
 
 About 85% of the 11 million leaked from the Steem ecosystem left the @alpha account.
 
 ![4-1.png](https://ipfs.busy.org/ipfs/Qmbm7d2NCvJyQSiYvo5sUvfAh7dfuqFKuVDsZwSu7AMZr7)
-*<Source : steemsql, unit : 10K>*
+<Source : steemsql, unit : 10K>
 
 As a result, in 2018, about 56% of the approximately 25 million declines in the @steemit account are used for the growth of the steem ecosystem, and 44% can be considered to have flowed out of the steem ecosystem.
 
 ![4.png](https://ipfs.busy.org/ipfs/Qmc81xmY1y5WpxvS6mvWfNks13Jnf3uCFr1j9HhnQ4SF4J)
-*<Source : steemsql, unit : 10K>*
+<Source : steemsql, unit : 10K>
 
 <hr>
 
@@ -109,7 +109,7 @@ If the @ned account is also seen as the core account of Steem Inc., the balance 
 Approximately 52% of them were used inside steem, and about 48% of them could be leaked out of the steem.
 
 ![5.png](https://ipfs.busy.org/ipfs/QmPsQV4KeW1zepiQSxCNcQFiHZLPp7DYCuVCQtCTEwsM4T)
-*<Source : steemsql, unit : 10K>*
+<Source : steemsql, unit : 10K>
 
 More precisely, Steem Inc.'s stake may have been partially transferred to other common steemians. I think that Steem Inc's stake is slightly reduced, and it seems that there are both advantages and disadvantages.
 
